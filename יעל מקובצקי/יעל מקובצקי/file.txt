@@ -1,2 +1,0 @@
-{"first name":"yael",
-"last name":"mako"}
