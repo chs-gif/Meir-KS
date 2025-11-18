@@ -1,0 +1,6 @@
+﻿  main.cpp
+M:\C++\lesson3\main.cpp(3,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+M:\C++\lesson3\main.cpp(23,2): error C2065: 'Student': undeclared identifier
+M:\C++\lesson3\main.cpp(23,10): error C2146: syntax error: missing ';' before identifier 's2'
+M:\C++\lesson3\main.cpp(23,10): error C3861: 's2': identifier not found
+M:\C++\lesson3\main.cpp(24,2): error C2065: 's2': undeclared identifier
